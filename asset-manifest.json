@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.abd5d8b4.css",
-    "main.js": "/portfolio/static/js/main.b0cff220.js",
+    "main.css": "/portfolio/static/css/main.cffd28f7.css",
+    "main.js": "/portfolio/static/js/main.5d32d602.js",
     "static/media/evanso-1.jpg": "/portfolio/static/media/evanso-1.dce6e82680e01525cb05.jpg",
     "static/media/python.png": "/portfolio/static/media/python.1eaaad356f1e20a2540f.png",
     "static/media/Android_Studio_Logo_(2023).svg.png": "/portfolio/static/media/Android_Studio_Logo_(2023).svg.c281f2e33b62fc93c0d8.png",
@@ -14,11 +14,11 @@
     "static/media/ims_thumbnail.webp": "/portfolio/static/media/ims_thumbnail.187b1c719db1c9cf3f3f.webp",
     "static/media/Bootstrap.svg": "/portfolio/static/media/Bootstrap.3a162f65200426203695ee878e6b62fb.svg",
     "index.html": "/portfolio/index.html",
-    "main.abd5d8b4.css.map": "/portfolio/static/css/main.abd5d8b4.css.map",
-    "main.b0cff220.js.map": "/portfolio/static/js/main.b0cff220.js.map"
+    "main.cffd28f7.css.map": "/portfolio/static/css/main.cffd28f7.css.map",
+    "main.5d32d602.js.map": "/portfolio/static/js/main.5d32d602.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd5d8b4.css",
-    "static/js/main.b0cff220.js"
+    "static/css/main.cffd28f7.css",
+    "static/js/main.5d32d602.js"
   ]
 }
