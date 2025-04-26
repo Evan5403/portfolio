@@ -54,14 +54,16 @@
     margin-right: 3rem;
 }
 
-@media screen and (min-width: 543px) {
-    .skillBar{
-        display: flex;
-    }
-}
 
 li{ 
     list-style-type: none;
     display: flex;
     margin: 2rem;
+}
+
+
+@media screen and (min-width: 543px) {
+    .skillBar{
+        display: flex;
+    }
 }
