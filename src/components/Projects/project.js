@@ -12,7 +12,7 @@ const Projects = () => {
             <div className='projectImgs'>
                 <a href='https://github.com/Evan5403/Inventory-Management-System_1.git' target='_blank'> <img src={Ims} alt='' className='projectImg' /> </a>
                 <a href='https://github.com/Evan5403/JamboShop-E-commerce-System.git' target='_blank'> <img src={Ecommerce} alt='' className='projectImg' /> </a>
-                <a href='https://github.com/Evan5403/portfolio.git' target='_blank'> <img src={Portfolio} alt='' className='projectImg' /> </a>
+                <a href='https://evan5403.github.io/portfolio/' target='_blank'> <img src={Portfolio} alt='' className='projectImg' /> </a>
             </div>
         </section>
     )
