@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.abd5d8b4.css",
+    "main.js": "/portfolio/static/js/main.b0cff220.js",
+    "static/media/evanso-1.jpg": "/portfolio/static/media/evanso-1.dce6e82680e01525cb05.jpg",
+    "static/media/python.png": "/portfolio/static/media/python.1eaaad356f1e20a2540f.png",
+    "static/media/Android_Studio_Logo_(2023).svg.png": "/portfolio/static/media/Android_Studio_Logo_(2023).svg.c281f2e33b62fc93c0d8.png",
+    "static/media/php.png": "/portfolio/static/media/php.a7759c068d5c9f03bebf.png",
+    "static/media/logo3.jpg": "/portfolio/static/media/logo3.1e1bd4e868b0a23d64b1.jpg",
+    "static/media/front-end.png": "/portfolio/static/media/front-end.a557c00d88185c05b037.png",
+    "static/media/back-end.png": "/portfolio/static/media/back-end.5be209e916a9d245f9f7.png",
+    "static/media/ibmskillsbuild.png": "/portfolio/static/media/ibmskillsbuild.cc693a69153017b957ee.png",
+    "static/media/java.jpg": "/portfolio/static/media/java.bd38955d41a41e8cc2be.jpg",
+    "static/media/ims_thumbnail.webp": "/portfolio/static/media/ims_thumbnail.187b1c719db1c9cf3f3f.webp",
+    "static/media/Bootstrap.svg": "/portfolio/static/media/Bootstrap.3a162f65200426203695ee878e6b62fb.svg",
+    "index.html": "/portfolio/index.html",
+    "main.abd5d8b4.css.map": "/portfolio/static/css/main.abd5d8b4.css.map",
+    "main.b0cff220.js.map": "/portfolio/static/js/main.b0cff220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd5d8b4.css",
+    "static/js/main.b0cff220.js"
+  ]
+}
